@@ -45,11 +45,6 @@ All in one tool for **Information Gathering** and **Vulnerability Scanning**
 + Scan For Everything - _The Old Lame Scanner_
 
 ---
-# Released Versions:
-    - Version 1.0.0 [11-06-2017]
-    - Version 1.1.0 [15-06-2017]
-    - Version 2.0.0 [11-08-2017]
-
 # Changelog:
 - Version 1.0.0
     - Initial Launch
@@ -100,14 +95,6 @@ RED HAWK's `CMS Detector` currently is able to detect the following CMSs (Conten
 **ISSUE:** Scanner Stops Working After Cloudflare Detection!
 
 **SOLUTION:** Use The `fix` Command OR Manually Install *php-curl* & *php-xml*
-
-Watch The Video TO See How To Solve This Isuue : https://www.youtube.com/watch?v=QuFPY9NFTM8
-
-# Video Demonstration
-<a href="https://www.youtube.com/watch?v=Jt9kBFiJDrE" target="_blank"><img src="https://i.imgur.com/SXDWohl.png" 
-alt="Video Thumbnail" border="10" /></a>
-
-Can't donate? well that's no problem just drop a **THANK YOU** this will motivate me to create more exciting stuffs for you ;)
 
 # TODOs
 
